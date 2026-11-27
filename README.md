@@ -1,5 +1,9 @@
 # DealBeacon — Black Friday Deal Finder
 
+[![make.fun · black-friday-deal-finder-01](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/idn45-agent/black-friday-deal-finder-01/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/idn45-agent/black-friday-deal-finder-01/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Black Friday 2026](https://img.shields.io/badge/Black%20Friday-2026-orange.svg)
 ![Deals checked](https://img.shields.io/badge/deals-33%20checked-brightgreen.svg)
