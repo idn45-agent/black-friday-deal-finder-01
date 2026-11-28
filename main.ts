@@ -1,4 +1,4 @@
-// DealBeacon — a Black Friday deal finder (Node 24, standard library only).
+// The Deal Ledger — a Black Friday deal finder (Node 22, standard library only).
 // The site is this directory's app/ folder: plain static files a browser
 // opens at app/index.html (ES modules, CSS, no build step), its deals held
 // in its own files — nothing it runs, styles or shows loads over the
